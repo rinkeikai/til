@@ -39,7 +39,7 @@ public static void main(String[] args) {
 }
 ```
 Userクラスの定義ができたので、このUser型の値、インスタンスを作ってみます。  
-**『new』** というキーワードを使って、データ型の名前、() とする。  
+**『new』** というキーワードを使って、データ型の名前、( ) とする。  
 ```Java
 class User {
   String name; //field
